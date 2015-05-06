@@ -60,9 +60,13 @@ img{
 }
 .logo{
     display: block;
-    width: 44%;
+    width: 440;
     margin: opx auto;
     
+}
+
+video{
+    margin-left: 5%;
 }
     
 
